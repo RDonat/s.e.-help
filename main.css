@@ -1,22 +1,27 @@
 
+
 body {
   background-color: #FED0BB;
+  margin: 2%;
 }
 
 
-h1, footer {
-  background-color: black;
-color: #B23A48;
+h1 {
+font-family: courier;
+background-color: black;
+color: #FED0BB;
 text-align: center;
 
 }
 
 p {
+  padding: 2%;
   color: white;
   background-color: #8C2F39;
 }
 
 img {
+
   width: 20%;
   height: 20%;
 padding: 1em;
@@ -27,5 +32,20 @@ padding: 1em;
   border: 0%;
   padding: 5%;
   margin-left: 4em;
+}
+
+  /* width: 60%;
+  border: white;
+  text-align: center;
+} */
+footer {
+  background-color: black;
+color: #FED0BB;
+text-align: center;
+
+}
+
+#bmo {
+  width: 20%;
 
 }
