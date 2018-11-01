@@ -1,7 +1,23 @@
-.sponsorImg{
-  padding:1em;
+
+body {
+  background-color: #FED0BB;
 }
-img{
+
+
+h1, footer {
+  background-color: black;
+color: #B23A48;
+text-align: center;
+
+}
+
+p {
+  color: white;
+  background-color: #8C2F39;
+}
+
+img {
   width: 20%;
-  height: 20%;
+  height:20%;
+  border: white;
 }
