@@ -21,10 +21,23 @@ p {
 }
 
 img {
-  width: 60%;
+
+  width: 20%;
+  height: 20%;
+padding: 1em;
+
+}
+
+.sponsorImg{
+  border: 0%;
+  padding: 5%;
+  margin-left: 4em;
+}
+
+  /* width: 60%;
   border: white;
   text-align: center;
-}
+} */
 footer {
   background-color: black;
 color: #FED0BB;
@@ -34,4 +47,5 @@ text-align: center;
 
 #bmo {
   width: 20%;
+
 }
